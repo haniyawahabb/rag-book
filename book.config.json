@@ -1,0 +1,13 @@
+{
+  "ownerName": "Hania",
+  "ownerFirstName": "Hania",
+  "bookTitle": "AI & Data Science",
+  "edition": "Hania Edition",
+  "tagline": "Learn Python, Machine Learning and Generative AI step by step, in English and Roman Urdu",
+  "creator": "Maria Hussain",
+  "qdrantCollection": "hania_book",
+  "siteUrl": "https://hania-ai-ds-book.vercel.app",
+  "projectName": "hania-ai-ds-book",
+  "botName": "Hania AI Tutor",
+  "theme": "bloom"
+}
